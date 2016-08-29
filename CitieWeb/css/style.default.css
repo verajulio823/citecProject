@@ -128,12 +128,12 @@ UNIVERSAL SECTION STYLES
   }
 }
 .text-gradient {
-  background: #13836c;
-  color: #fff;
-  background-image: -webkit-linear-gradient(top, #13836c 0%, #45b59e 100%);
-  background-image: linear-gradient(to bottom, #13836c 0%, #45b59e 100%);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff13836c', endColorstr='#ff45b59e', GradientType=0);
+  background: #6e57f9;
+    color: #fff;
+    background-image: -webkit-linear-gradient(top, #6e57f9 0%, #6e57f9 100%);
+    background-image: linear-gradient(to bottom, #6e57f9 0%, #6e57f9 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff13836c', endColorstr='#ff45b59e', GradientType=0);
 }
 .text-gradient h2 {
   border-color: #fff;
@@ -321,7 +321,7 @@ SERVICES
 .services .icon {
   font-size: 60px;
   text-align: center;
-  text-shadow: 5px 5px 0 #2d7b6b;
+  text-shadow: 5px 5px 0 #6e57f9;
 }
 .services .heading {
   font-size: 30px;
