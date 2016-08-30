@@ -87,7 +87,7 @@ _________________________________________________________ -->
             <div class="navbar-collapse collapse" id="navigation">
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="#intro">Home</a>
+                    <li class="active"><a href="#sidebar-menu-container">Home</a>
                     </li>
                     <li><a href="#about">Acerca de</a>
                     </li>
@@ -152,28 +152,28 @@ _________________________________________________________ -->
                             <ul>
                                 <li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
                                     <img src="files/images/01-slide.jpg" data-fullwidthcentering="on" alt="slide">
-                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="center" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">YOM-DOWNLOAD ANYTHING</div>
-                                    <div class="tp-caption second-line lfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="340" data-speed="1000" data-start="800" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">From Yom you can download anything for free</div>
-                                    <div class="tp-caption slider-btn sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="510" data-speed="1000" data-start="2200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><a href="#" class="btn btn-slider">Discover More</a></div>
+                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="center" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"></div>
+                                    <div class="tp-caption second-line lfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="340" data-speed="1000" data-start="800" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"></div>
+                                    <div class="tp-caption slider-btn sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="510" data-speed="1000" data-start="2200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><a href="#" class="btn btn-slider"></a></div>
                                 </li>
                                 <li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
                                     <img src="files/images/02-slide.jpg" data-fullwidthcentering="on" alt="slide">
-                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="center" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">Create a Multi Author Blog</div>
-                                    <div class="tp-caption second-line lfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="340" data-speed="1000" data-start="800" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">Using Yom you can create multi author Blog platform</div>
-                                    <div class="tp-caption slider-btn sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="510" data-speed="1000" data-start="2200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><a href="#" class=" second-btn btn btn-slider">Discover More</a></div>
+                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="center" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"></div>
+                                    <div class="tp-caption second-line lfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="340" data-speed="1000" data-start="800" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"></div>
+                                    <div class="tp-caption slider-btn sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="510" data-speed="1000" data-start="2200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><a href="#" class=" second-btn btn btn-slider"></a></div>
                                 </li>
                                 <li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
                                     <img src="files/images/03-slide.jpg" data-fullwidthcentering="on" alt="slide">
-                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="center" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">Create an E-commerce Site</div>
-                                    <div class="tp-caption second-line lfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="340" data-speed="1000" data-start="800" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">Using Yom your can create a Multi Author E-Commerce Website</div>
-                                    <div class="tp-caption slider-btn sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="510" data-speed="1000" data-start="2200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><a href="#" class="btn btn-slider">Discover More</a></div>
+                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="center" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"></div>
+                                    <div class="tp-caption second-line lfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="340" data-speed="1000" data-start="800" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"></div>
+                                    <div class="tp-caption slider-btn sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="510" data-speed="1000" data-start="2200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><a href="#" class="btn btn-slider"></a></div>
                                 </li>
 
 				 <li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
                                     <img src="files/images/04-slide.jpg" data-fullwidthcentering="on" alt="slide">
-                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="center" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">Create an E-commerce Site</div>
-                                    <div class="tp-caption second-line lfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="340" data-speed="1000" data-start="800" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">Using Yom your can create a Multi Author E-Commerce Website</div>
-                                    <div class="tp-caption slider-btn sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="510" data-speed="1000" data-start="2200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><a href="#" class="btn btn-slider">Discover More</a></div>
+                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="center" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"></div>
+                                    <div class="tp-caption second-line lfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="340" data-speed="1000" data-start="800" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"></div>
+                                    <div class="tp-caption slider-btn sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="510" data-speed="1000" data-start="2200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><a href="#" class="btn btn-slider"></a></div>
                                 </li>
                             </ul>
                         </div>
@@ -221,11 +221,15 @@ _________________________________________________________ -->
                                 <ul>
                                     <li align="left"> <b>31 de octubre - 11 Noviembre</b>:  Conferencias virtuales </li>
                                     <li align="left"> <b>14 - 18 Noviembre</b>:  Congreso presencial </li>
-                                    <li align="left"> <b>14 - 17 Noviembre</b>:  Llamada de trabajos, short y full papers </li>                                
+                                    <li align="left"> <b>14 - 17 Noviembre</b>:  Llamada de trabajos, short y full papers, los formatos se encuentran en el siguiente enlace <a href="http://www.google.com">formato.tex </a> </li>                                
                                     <li align="left"> <b>18 Noviembre</b>:  Clausura del congreso </li>
 
                                     
                                 </ul>  
+                                <a></a>
+                                <input type="submit"  class="btn btn-primary btn-lg" onclick="window.open('http://easychair.org/');"  value="Enviar Artículo">
+
+                                <h>
                                 
                                
                             </div>
@@ -290,7 +294,7 @@ _________________________________________________________ -->
 
                         <p class="lead">¿Le gustaría saber más sobre nosotros?</p>
 
-                        <p><a href="#contact" class="btn btn-default btn-lg scrollTo">Contactenos</a>
+                        <p><a href="#contact" class="btn btn-default btn-lg scrollTo" ">Contactenos</a>
                         </p>
 
                     </div>
@@ -388,7 +392,7 @@ _________________________________________________________ -->
                         <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Experto en informática, con énfasis en Tecnología de la Información en la Educación, Ingeniería de Software, procesamiento de gráficos, juegos digitales, objetos de aprendizaje.</p>
+                                    <p>Doctor en Ingeniería Eléctrica en la Universidad de São Paulo (USP), MSc.en Ciencias de la Computación del Instituto Tecnológico de Aeronáutica (ITA) y su licenciatura en Matemáticas de la Universidad Federal de Juiz de Fora (UFJF), todos en Brasil. En la actualidad, es profesor en la Universidad Presbiteriana Mackenzie y Cruzeiro do Sul Universidad, en São Paulo, Brasil, enseñando en CS y juegos digitales cursos de licenciatura y maestría. y doctorado.</p>
                                 </div>
 
                                 <div class="bottom">
@@ -461,7 +465,9 @@ Además es miembro de INCODE agencia consultiva de ONU sobre educación a distan
  			<li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Líder del Grupo de Investigación en Gestión y Política en Educación y segundo Vice-Presidente del Comité de Ética de Investigación Humana de la PUC-Campinas. Consultor científico de investigación en los organismos de desarrollo como la CAPES y CNPq y fundaciones de apoyo a la investigación, tales como la FAPESP, FAPEMIG, FUNDECT, FAPESB, FUNADESP. Es árbitro de importantes revistas brasileñas en las áreas de Gestión y Evaluación de Políticas Públicas.</p>
+                                    <p>Investigador de Productividad Científica del Consejo Nacional de Desarrollo Científico y Tecnológico del Ministerio de Ciencia y Tecnología del Brasil, Vice-Presidente del Comité de Ética en Investigación con Seres Humanos de la PUC-Campiñas y coordinador de Investigación en Gestión y Políticas en Educación de la misma universidad. Miembro del Consejo Científico de la Asociación Brasileña de
+
+Evaluación Educacional y consultor y/o asesor científico. Evaluador de artículos en importantes revistas científicas.</p>
                                 </div>
 
                                 <div class="bottom">
@@ -518,7 +524,7 @@ Además es miembro de INCODE agencia consultiva de ONU sobre educación a distan
 			 <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Profesora de amplia experiencia en el área de la tecnología educativa. Principalmente trabaja en el área de postgrado como consultor y líder para la integración de las TIC en la educación. Su experiencia en investigación incluye las áreas de creación de contenidos multimedia, usabilidad, diseño de la experiencia del usuario, Ingeniero y Arquitectura de aprendizaje, entornos virtuales de aprendizaje, el diseño de juegos y laboratorios virtuales..</p>
+                                    <p>Profesora de amplia experiencia en el área de la tecnología educativa. Principalmente trabaja en el área de postgrado como consultor y líder para la integración de las TIC en la educación. Experiencia en  áreas de creación de contenidos multimedia, usabilidad, diseño de la experiencia del usuario, Ingeniero y Arquitectura de aprendizaje, entornos virtuales de aprendizaje, el diseño de juegos y laboratorios virtuales.</p>
                                 </div>
 
                                 <div class="bottom">
@@ -596,7 +602,7 @@ Además es miembro de INCODE agencia consultiva de ONU sobre educación a distan
 		 <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>.</p>
+                                    <p>Doctor en Ingeniería, Universidad Nacional de Rosario y tiene una Maestría en Ciencias de la Computación, Universidad de la República, Montevideo, Uruguay. Obtuvo su grado en Matemáticas en la Universidad Nacional de Rosario. Ella también es profesor e investigador en el Departamento de Investigación, Facultad de Química e Ingeniería, Rosario, Universidad Católica Argentina.</p>
                                 </div>
 
                                 <div class="bottom">
@@ -632,36 +638,36 @@ _________________________________________________________ -->
                         <div class="item">
                             <div class="icon"><i class="fa fa-align-justify"></i>
                             </div>
-                            <h4><span class="counter">120</span><br>
+                            <h4><span class="counter">20</span><br>
 
-			Websites</h4>
+			Instituciones colaboradoras</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6" data-animate="fadeInUp">
                         <div class="item">
                             <div class="icon"><i class="fa fa-users"></i>
                             </div>
-                            <h4><span class="counter">50</span><br>  
+                            <h4><span class="counter">16</span><br>  
 
-			Satisfied Clients</h4>
+			Expositores Internacionales</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6" data-animate="fadeInUp">
                         <div class="item">
                             <div class="icon"><i class="fa fa-copy"></i>
                             </div>
-                            <h4><span class="counter">320</span><br>
+                            <h4><span class="counter">50</span><br>
 
-			Projects</h4>
+			Más de 50 trabajos de investigación</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6" data-animate="fadeInUp">
                         <div class="item">
                             <div class="icon"><i class="fa fa-font"></i>
                             </div>
-                            <h4><span class="counter">333</span><br> 
+                            <h4><span class="counter">16</span><br> 
 
-			Magazines and Brochures</h4>
+			Días de conferencias</h4>
                         </div>
                     </div>
                 </div>
@@ -937,7 +943,7 @@ _________________________________________________________ -->
  			<div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
                             <div class="reference">
                                 <a href="#">
-                                    <img src="img/portfolio-8.jpg" class="img-responsive" alt="" />
+                                    <img src="img/portfolio-9.jpg" class="img-responsive" alt="" />
 
                                     <div class="overlay">
                                         <h3 class="reference-title">Project name</h3> 
@@ -985,37 +991,57 @@ _________________________________________________________ -->
                     <div class="row">
                         <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
-                                <img class="img-responsive" src="img/customers/cus001.png" title="Kofola" data-placement="bottom" data-toggle="tooltip" alt="">
+                                <img class="img-responsive" src="img/customers/cus001.png" title="Universidad Técnica Particular de Loja    " data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>
 
                         <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
-                                <img class="img-responsive" src="img/customers/cus002.png" title="Evian" data-placement="bottom" data-toggle="tooltip" alt="">
+                                <img class="img-responsive" src="img/customers/cus002.png" title="Universdiad Plesbiteriana Mackenzie" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>
 
                         <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
-                                <img class="img-responsive" src="img/customers/cus003.png" title="CS Link" data-placement="bottom" data-toggle="tooltip" alt="">
+                                <img class="img-responsive" src="img/customers/cus003.png" title="Tecnológico de Monterrey" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>
 
                         <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
-                                <img class="img-responsive" src="img/customers/cus004.png" title="Botas 66 Concept store" data-placement="bottom" data-toggle="tooltip" alt="">
+                                <img class="img-responsive" src="img/customers/cus004.png" title="Universidad de la Sabana" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>
 
                         <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
-                                <img class="img-responsive" src="img/customers/cus005.png" title="MediaFabríca" data-placement="bottom" data-toggle="tooltip" alt="">
+                                <img class="img-responsive" src="img/customers/cus005.png" title="Universidad de Salamanca" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>
 
                         <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
-                                <img class="img-responsive" src="img/customers/cus006.png" title="VANĚK Strojírenská výroba" data-placement="bottom" data-toggle="tooltip" alt="">
+                                <img class="img-responsive" src="img/customers/cus006.png" title="Universidad Estatal de Campinas" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/CUJAE.png" title="Instituto Superior Politécnico José Antonio Echeverría" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/PUCC.png" title="Pontificia Universidad Católica de Chile" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/UNR.jpg" title="Universidad Nacional de Rosario" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/ANTONIO.png" title="Universidad Jesuita Antonio Ruiz de Montoya" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>
 
@@ -1040,7 +1066,7 @@ _________________________________________________________ -->
                 <div class="col-md-12">
 
 
-                    <h2 class="title">Contact me</h2>
+                    <h2 class="title" style="color:black" >Contactenos</h2>
 
                     <div class="row">
 
@@ -1127,7 +1153,7 @@ _________________________________________________________ -->
                     
                 </svg>
                 <div class="points-tooltips">
-                    <div class="point-tooltip"><h2 class="point-tooltip__title">Rupert Street</h2><br><p class="point-tooltip__description">The connection to London Bridge that no one knew about</p></div>
+                    <div class="point-tooltip"><h2 class="point-tooltip__title"> Aula Magna de la UNSA</h2><br><p class="point-tooltip__description">Av. Daniel Alcides Carrión s/n – Cercado, Arequipa</p></div>
                     <div class="point-tooltip"><h2 class="point-tooltip__title">Swiss Court</h2><br><p class="point-tooltip__description">The crazy story of a rebel</p></div>
                     <div class="point-tooltip"><h2 class="point-tooltip__title">Bear Street</h2><br><p class="point-tooltip__description">Hidden gems and stories</p></div>
                     <div class="point-tooltip"><h2 class="point-tooltip__title">Leicester Square</h2><br><p class="point-tooltip__description">A never ending love story</p></div>
@@ -1136,9 +1162,10 @@ _________________________________________________________ -->
                 </div>
                 <div class="points-content">
                     <div class="point-content">
-                        <h3 class="point-content__title">The Rupert Connection</h3>
-                        <p class="point-content__subtitle">24<sup>th</sup> of February, 1927</p>
-                        <p class="point-content__text">Descended from astronomers encyclopaedia galactica from which we spring worldlets intelligent beings gathered by gravity billions.</p>
+                        <h3 class="point-content__title">Aula Magna de la UNSA</h3>
+                        <p class="point-content__subtitle">14 a 18 de Noviembre 2016</p>
+                        <p class="point-content__text"> Aula Magna Simón Bolívar – Universidad Nacional San Agustín de Arequipa - UNSA 
+Av. Daniel Alcides Carrión s/n – Cercado, Arequipa. (Campus Universitario - Costado de la Facultad de Medicina)</p>
                     </div>
                     <div class="point-content">
                         <h3 class="point-content__title">Swiss Court, Miss</h3>
