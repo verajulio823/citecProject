@@ -325,26 +325,29 @@ _________________________________________________________ -->
                     <ul class="owl-carousel testimonials same-height-row" data-animate="fadeInUp">
                         <li class="item">
                             <div class="testimonial same-height-always">
-                                <div class="text">
-                                    <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p>
+
+				 <img class="" alt="" src="img/ponentes/013.png">	                                
+				<div class="text">
+                                       <!-- <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p> -->
                                 </div>
-                                <div class="bottom">
+                               <!-- <div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
                                         <img class="" alt="" src="img/ponentes/001.jpg">
                                         <h5>John McIntyre</h5>
                                         <p>Jari Lavonen</p>
-                                    </div>
-                                </div>
-                            </div>
+                                    </div> 
+                                </div> 
+                            </div> -->
                         </li>
                         <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Investigador en el campo de la robótica y las tecnologías educativas.</p>
+ 			<img class="" alt="" src="img/ponentes/014.png">                                  
+ 				 <!--  <p>Investigador en el campo de la robótica y las tecnologías educativas.</p>  -->
                                 </div>
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -353,15 +356,15 @@ _________________________________________________________ -->
                                         <p>João Vilhete</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
                         <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    
-                                    <p>Realiza investigaciones sobre las estrategias de enseñanza innovadoras, los recursos tecnológicos para la educación y la formación de investigadores educativos.</p>
+                                    <img class="" alt="" src="img/ponentes/015.png">  
+                                   <!-- <p>Realiza investigaciones sobre las estrategias de enseñanza innovadoras, los recursos tecnológicos para la educación y la formación de investigadores educativos.</p>  -->
                                 </div>
-                                <div class="bottom">
+                               <!-- <div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -370,15 +373,16 @@ _________________________________________________________ -->
                                         <p>María Ramírez</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
                         <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p>
+                                   <img class="" alt="" src="img/ponentes/016.png"> 
+				<!-- <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -387,15 +391,16 @@ _________________________________________________________ -->
                                         <p>Francisco García</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
                         <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Doctor en Ingeniería Eléctrica en la Universidad de São Paulo (USP), MSc.en Ciencias de la Computación del Instituto Tecnológico de Aeronáutica (ITA) y su licenciatura en Matemáticas de la Universidad Federal de Juiz de Fora (UFJF), todos en Brasil. En la actualidad, es profesor en la Universidad Presbiteriana Mackenzie y Cruzeiro do Sul Universidad, en São Paulo, Brasil, enseñando en CS y juegos digitales cursos de licenciatura y maestría. y doctorado.</p>
+ 				 <img class="" alt="" src="img/ponentes/016.png"> 
+                                <!--    <p>Doctor en Ingeniería Eléctrica en la Universidad de São Paulo (USP), MSc.en Ciencias de la Computación del Instituto Tecnológico de Aeronáutica (ITA) y su licenciatura en Matemáticas de la Universidad Federal de Juiz de Fora (UFJF), todos en Brasil. En la actualidad, es profesor en la Universidad Presbiteriana Mackenzie y Cruzeiro do Sul Universidad, en São Paulo, Brasil, enseñando en CS y juegos digitales cursos de licenciatura y maestría. y doctorado.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -404,16 +409,17 @@ _________________________________________________________ -->
                                         <p>Ismar Frango</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
 			 <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>.</p>
+				  <img class="" alt="" src="img/ponentes/016.png">                                    
+				<!-- <p>.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -422,16 +428,17 @@ _________________________________________________________ -->
                                         <p>Raul kantor</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
  			<li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p>
+				  <img class="" alt="" src="img/ponentes/016.png">                                    
+				 <!-- <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -440,17 +447,18 @@ _________________________________________________________ -->
                                         <p>Francisco García</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
  			<li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Editor de la Revista de Educación a Distancia y la Revista de Docencia Universitaria. Participa del grupo de editores de E-revistas, portal español de revistas científicas de acceso abierto de CINDOC-CSIC, cuyo foro en Rediris coordino.
-Además es miembro de INCODE agencia consultiva de ONU sobre educación a distancia.</p>
+  				<img class="" alt="" src="img/ponentes/016.png"> 
+                                 <!--   <p>Editor de la Revista de Educación a Distancia y la Revista de Docencia Universitaria. Participa del grupo de editores de E-revistas, portal español de revistas científicas de acceso abierto de CINDOC-CSIC, cuyo foro en Rediris coordino.
+					Además es miembro de INCODE agencia consultiva de ONU sobre educación a distancia.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -459,18 +467,18 @@ Además es miembro de INCODE agencia consultiva de ONU sobre educación a distan
                                         <p>Miguel Zapata</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
                    
  			<li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Investigador de Productividad Científica del Consejo Nacional de Desarrollo Científico y Tecnológico del Ministerio de Ciencia y Tecnología del Brasil, Vice-Presidente del Comité de Ética en Investigación con Seres Humanos de la PUC-Campiñas y coordinador de Investigación en Gestión y Políticas en Educación de la misma universidad. Miembro del Consejo Científico de la Asociación Brasileña de
-
-Evaluación Educacional y consultor y/o asesor científico. Evaluador de artículos en importantes revistas científicas.</p>
+                                  <img class="" alt="" src="img/ponentes/016.png">     
+				<!--<p>Investigador de Productividad Científica del Consejo Nacional de Desarrollo Científico y Tecnológico del Ministerio de Ciencia y Tecnología del Brasil, Vice-Presidente del Comité de Ética en Investigación con Seres Humanos de la PUC-Campiñas y coordinador de Investigación en Gestión y Políticas en Educación de la misma universidad. Miembro del Consejo Científico de la Asociación Brasileña de
+				Evaluación Educacional y consultor y/o asesor científico.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -479,17 +487,18 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
                                         <p>Adolfo Ignacio</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 		
 
 		 <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Realiza investigaciones sobre tecnologías de la educación y el aprendizaje organizacional.</p>
+  				<img class="" alt="" src="img/ponentes/016.png"> 
+                                <!--    <p>Realiza investigaciones sobre tecnologías de la educación y el aprendizaje organizacional.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                               <!-- <div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -498,17 +507,18 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
                                         <p>Margarida Romero</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
 
- <li class="item">
+ 			<li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Experta en Gestión de la Educación a Distancia.</p>
+  					<img class="" alt="" src="img/ponentes/016.png"> 
+                                    <!--<p>Experta en Gestión de la Educación a Distancia.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                               <!-- <div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -517,17 +527,18 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
                                         <p>Daniela Vieira </p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
 
 			 <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Profesora de amplia experiencia en el área de la tecnología educativa. Principalmente trabaja en el área de postgrado como consultor y líder para la integración de las TIC en la educación. Experiencia en  áreas de creación de contenidos multimedia, usabilidad, diseño de la experiencia del usuario, Ingeniero y Arquitectura de aprendizaje, entornos virtuales de aprendizaje, el diseño de juegos y laboratorios virtuales.</p>
+  					<img class="" alt="" src="img/ponentes/016.png"> 
+                                   <!-- <p>Profesora de amplia experiencia en el área de la tecnología educativa. Principalmente trabaja en el área de postgrado como consultor y líder para la integración de las TIC en la educación. Experiencia en  áreas de creación de contenidos multimedia, usabilidad, diseño de la experiencia del usuario, Ingeniero y Arquitectura de aprendizaje, entornos virtuales de aprendizaje, el diseño de juegos y laboratorios virtuales.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -536,7 +547,7 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
                                         <p>Ariane Alvarez</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
 
@@ -544,10 +555,12 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
 			 <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>.</p>
+				<img class="" alt="" src="img/ponentes/016.png"> 				
+				 <!-- <img class="" alt="" src="img/ponentes/016.png"> -->                                    
+				 <p>.</p>
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -556,17 +569,18 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
                                         <p>Juan Cabrera</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
 
 			 <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Profesor e Investigador del Departamento de Ciencias de la Computación, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile. Sus intereses en investigación son Informática Educativa, Interacción Humano-Computador, Software Educativo, Multimedios/Hipermedios, Juegos Computacionales Educativos.</p>
+                          <img class="" alt="" src="img/ponentes/016.png">         
+			    <!--<p>Profesor e Investigador del Departamento de Ciencias de la Computación, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile. Sus intereses en investigación son Informática Educativa, Interacción Humano-Computador, Software Educativo, Multimedios/Hipermedios, Juegos Computacionales Educativos.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -575,7 +589,7 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
                                         <p>Jaime Sanchez</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
 
@@ -583,10 +597,11 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
 			 <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>.</p>
+  				<img class="" alt="" src="img/ponentes/016.png"> 
+                                   <!-- <p>.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                                <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -595,17 +610,18 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
                                         <p>Ari Anselmi</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
 
 		 <li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-                                    <p>Doctor en Ingeniería, Universidad Nacional de Rosario y tiene una Maestría en Ciencias de la Computación, Universidad de la República, Montevideo, Uruguay. Obtuvo su grado en Matemáticas en la Universidad Nacional de Rosario. Ella también es profesor e investigador en el Departamento de Investigación, Facultad de Química e Ingeniería, Rosario, Universidad Católica Argentina.</p>
+					  <img class="" alt="" src="img/ponentes/016.png">                                 
+			   <!-- <p>Doctor en Ingeniería, Universidad Nacional de Rosario y tiene una Maestría en Ciencias de la Computación, Universidad de la República, Montevideo, Uruguay. Obtuvo su grado en Matemáticas en la Universidad Nacional de Rosario. Ella también es profesor e investigador en el Departamento de Investigación, Facultad de Química e Ingeniería, Rosario, Universidad Católica Argentina.</p> -->
                                 </div>
 
-                                <div class="bottom">
+                               <!-- <div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
@@ -614,7 +630,7 @@ Evaluación Educacional y consultor y/o asesor científico. Evaluador de artícu
                                         <p>Claudia Deco</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
 
  </ul>
@@ -1019,32 +1035,55 @@ _________________________________________________________ -->
                             </div>
                         </div>
 
-                        <div class="col-sm-4 col-md-2  col-xs-6">
+			 <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
-                                <img class="img-responsive" src="img/customers/cus006.png" title="Universidad Estatal de Campinas" data-placement="bottom" data-toggle="tooltip" alt="">
+                                <img class="img-responsive" src="img/customers/puc.png" title="Pontificia Universidad Católica de Perú" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>
-                        <div class="col-sm-4 col-md-2  col-xs-6">
-                            <div class="customer">
-                                <img class="img-responsive" src="img/customers/CUJAE.png" title="Instituto Superior Politécnico José Antonio Echeverría" data-placement="bottom" data-toggle="tooltip" alt="">
-                            </div>
-                        </div>
+</div>   
+       
                         <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
                                 <img class="img-responsive" src="img/customers/PUCC.png" title="Pontificia Universidad Católica de Chile" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>
-                        <div class="col-sm-4 col-md-2  col-xs-6">
+                       
+			 <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
-                                <img class="img-responsive" src="img/customers/UNR.jpg" title="Universidad Nacional de Rosario" data-placement="bottom" data-toggle="tooltip" alt="">
+                                <img class="img-responsive" src="img/customers/cus006.png" title="Universidad Estatal de Campinas" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
-                        </div>
+                        </div>			
+			 
                         <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
                                 <img class="img-responsive" src="img/customers/ANTONIO.png" title="Universidad Jesuita Antonio Ruiz de Montoya" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>
+			
+			   <div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/CUJAE.png" title="Instituto Superior Politécnico José Antonio Echeverría" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>
 
+			 <div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/UNR.png" title="Universidad Nacional de Rosario" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>
+			<div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/repu.png" title="Pontificia Universidad Católica de Perú" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>	
+
+			<div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/helsinki.png" title="Universidad Nacional de Rosario" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>   
+
+			
                     </div>
                     <!-- /.row -->
 
