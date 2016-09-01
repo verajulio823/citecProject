@@ -1076,12 +1076,39 @@ _________________________________________________________ -->
                                 <img class="img-responsive" src="img/customers/repu.png" title="Pontificia Universidad Católica de Perú" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>	
-
+</div>  
 			<div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
                                 <img class="img-responsive" src="img/customers/helsinki.png" title="Universidad Nacional de Rosario" data-placement="bottom" data-toggle="tooltip" alt="">
                             </div>
                         </div>   
+			
+			<div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/uchile.png" title="Universidad Nacional de Rosario" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>   
+			
+			<div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/alcala.png" title="Universidad Nacional de Rosario" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div> 
+
+			<div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/alverta.png" title="Universidad Nacional de Rosario" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>   
+
+
+			<div class="col-sm-4 col-md-2  col-xs-6">
+                            <div class="customer">
+                                <img class="img-responsive" src="img/customers/laval.png" title="Universidad Nacional de Rosario" data-placement="bottom" data-toggle="tooltip" alt="">
+                            </div>
+                        </div>   
+	  
+	
 
 			
                     </div>
