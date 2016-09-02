@@ -230,35 +230,48 @@ _________________________________________________________ -->
                         <h2 class="title" data-animate="fadeInDown">Sobre CITIE</h2>
                     </div>
 
+                    <div class="col-sm-12">
 
-    				         <div style="float:left; background: rgba(225, 225, 225, .8); width:400px; height:350px; float:left; text-align: center;">
+                        <div class="row">
+
+ <div class="slider">
+                    <div class="fullwidthbanner-container">
+                        <div class="fullwidthbanner">
+                            <ul>
+                                <li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
+                                    <!-- <img src="files/images/01-slide.jpg" data-fullwidthcentering="on" alt="slide"> -->
+                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="right" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">
+                                        <div style="background: rgba(225, 225, 225, .8); width:400px; height:200px; float:left; text-align: center;">
                                         <h2 style="color:#3a1bef"><b>CITIE</b></h2>
                                         <h3 style="color:#3a1bef">31 de octubre - 11 Noviembre</h3>
                                         <h3 style="color:#3a1bef">CONFERENCIAS VIRTUALES</h3>
-                                          </div>  
-                                      </div> 
-  <div class="col-sm-6" data-animate="fadeInUp">
+                                            
+                                        </div>
+                                      
+                                        
+                                    </div>
                                    
-                                   
-                                  <!--  <img src="files/images/03-slide.jpg" data-fullwidthcentering="on" alt="slide"> -->
-                                        <div style="float:left; background: rgba(225, 225, 225, .8); width:400px; height:350px; float:left; text-align: center;">
+                                </li>
+                                <li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
+                                   <!-- <img src="files/images/03-slide.jpg" data-fullwidthcentering="on" alt="slide"> -->
+                                    <div class="tp-caption first-line lft tp-resizeme start" data-x="left" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">
+                                        <div style="background: rgba(225, 225, 225, .8); width:400px; height:200px; float:left; text-align: center;">
                                         <h2 style="color:#3a1bef"><b>CITIE</b></h2>
                                         <h3 style="color:#3a1bef">14 Noviembre - 18 Noviembre</h3>
                                         <h3 style="color:#3a1bef">CONGRESO PRESENCIAL</h3>                                            
                                         </div>
 
 
-                                   
-
-                    <div class="col-sm-12">
-
-                        <div class="row">
-
-                           
-                                 <!--   <img src="files/images/01-slide.jpg" data-fullwidthcentering="on" alt="slide"> -->
+                                    </div>
                                     
-                                       
-                		
+                                </li>
+                                                                  
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>          
+                
             
 
 
