@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+	
+    <meta charset="utf-8">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>IT Worker | responsive portfolio template</title>
+
+    <meta name="keywords" content="">
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100%7CRoboto:400,700,300,100' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap and Font Awesome css -->
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme stylesheet -->
+    <link href="css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+
+    <!-- Custom stylesheet - for your changes -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- owl carousel css -->
+
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.theme.css" rel="stylesheet">
+
+    <!-- CSS Animations -->
+    <link href="css/animate.css" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.png">
+
+    <!-- Mordernizr -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/banner/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="css/banner/demo.css" />
+	<link rel="stylesheet" type="text/css" href="css/banner/desert.css" />
+
+
+    <link rel="stylesheet" type="text/css" href="css/mapa/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="css/mapa/demo.css" />
+	<link rel="stylesheet" type="text/css" href="css/mapa/component.css" />
+
+
+    <link rel="stylesheet" href="files/css/animate.css">
+    <link rel="stylesheet" href="files/css/simple-line-icons.css">
+    <link rel="stylesheet" href="files/css/font-awesome.min.css">
+    
+    <link rel="stylesheet" href="files/rs-plugin/css/settings.css">
+
+
+    <!-- Responsivity for older IE -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body data-spy="scroll" data-target="#navigation" data-offset="120">
+
+    <!-- *** NAVBAR ***
+_________________________________________________________ -->
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation" id="navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+               <!-- <a class="navbar-brand scrollTo" href="#intro" style="color:blue">CITIE</a>-->
+               <img src="img/logohome.png" width="270" height="90">
+            </div>
+
+            <div class="navbar-collapse collapse" id="navigation">
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="#sidebar-menu-container">Home</a>
+                    </li>
+                    <li><a href="#about">Acerca de</a>
+                    </li>
+                    <li><a href="#services">Temas</a>
+                    </li>
+                    <li><a href="#testimonials">Ponentes</a>
+                    </li>
+                    <li><a href="#references">Trabajos</a>
+                    </li>
+                    <li><a href="#customers">Auspiciadores</a>
+                    </li>
+                    <li><a href="#contact">Contáctenos</a>
+                    </li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+
+        </div>
+    </div>
+    <!-- /#navbar -->
+
+    <!-- *** NAVBAR END *** -->
+
+
+    <div id="all">
+
+
+               <div class="section" id="references">
+            <div class="container">
+                <div class="col-sm-12">
+
+                    <div class="mb20">
+                        <h2 class="title" data-animate="fadeInUp">Información de Turismo</h2>
+
+                        <p class="lead" data-animate="fadeInUp">Conozca más sobre Arequipa: Cultura viva, naturaleza y aventura.</p>
+                    </div>
+
+                   <!-- <ul id="filter" data-animate="fadeInUp">
+                        <li class="active"><a href="#" data-filter="all">Todos</a>
+                        </li>
+                        <li><a href="#" data-filter="Nuevas Tendencias en el aprendizaje con tecnología digital">Nuevas Tendencias en el aprendizaje con tecnología digital</a>
+                        </li>
+                        <li><a href="#" data-filter="Internet y software para la educación">Internet y software para la educación</a>
+                        </li>
+                        <li><a href="#" data-filter="Interacción Humano Computador">Interacción Humano Computador</a>
+                        </li>
+                        <li><a href="#" data-filter="Ecosistema Educativo">Ecosistema Educativo</a>
+                        </li>
+                    </ul> -->
+
+                    <div id="detail">
+
+                        <span class="close">&times;</span> 
+
+                        <div id="detail-slider"></div>
+
+                        <div class="text-center">
+                            <h1 id="detail-title">&nbsp;</h1>
+                        </div>
+
+                        <div id="detail-content"></div>
+
+                    </div>
+                    <!-- Reference detail -->
+			<!-- jhon1 -->
+
+                    <div id="references-masonry" data-animate="fadeInUp">
+
+                        <div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
+                            <div class="reference">
+                                <a href="#">
+                                    <img src="img/trabajos/portfolio-020.jpg" class="img-responsive" alt="" />
+
+                                    <div class="overlay">
+                                        <h3 class="reference-title">Hoteles </h3> 
+                                        <p></p>
+                                    </div>
+                                </a>
+
+                                <div class="sr-only reference-description" data-images="img/trabajos/slider020.jpg">
+
+                                    <p>Arequipa es tradicional, pero moderna a la vez. Es una ciudad grande, y también íntima. Un paraíso para los arequipeños y para todo el mundo. El desarrollo comercial que ha tenido en las últimas décadas la ha convertido en uno de los más importantes destinos turísticos del país. Por ello posee todos los servicios que puedes necesitar para una estadía perfecta. La comodidad y el confort están presentes en los hoteles que te ofrece. Hoteles en el Centro Histórico, con vista a la Plaza de Armas, rodeados de los principales atractivos turísticos de la ciudad. Hoteles 5 estrellas de famosas cadenas internacionales con todas las comodidades que imaginas. Hoteles rústicos de ambiente familiar donde al hospedarte te sentirás como en casa. Sólo tienes que reservar el hotel que prefieras, hacer tus maletas y viajar hacia la aventura de vivir nuevas experiencias.</p>
+
+                                    <div class=" text-center">
+                                 <input type="submit"  class="btn btn-primary btn-lg" style="color:#34343d" onclick="window.open('https://www.google.com.pe/maps/search/hoteles+arequipa/@-16.3986771,-71.5464383,15z/data=!3m1!4b1');"  value="Visitar página">
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+		 <!-- jhon 2 -->
+                        <div class="reference-item" data-category="Internet y software para la educación">
+                            <div class="reference">
+                                <a href="#">
+                                   <img src="img/trabajos/portfolio-021.jpg" class="img-responsive" alt="" />
+
+                                    <div class="overlay">
+                                        <h3 class="reference-title">Gastronomia</h3> 
+                                        <p></p>
+                                    </div>
+                                </a>
+
+                                <div class="sr-only reference-description" data-images="img/trabajos/slider021.jpg">
+
+                                    <p>La comida arequipeña ha alcanzado fama por poseer la mayor diversidad respecto a otros departamentos del Perú, gracias a la amplia despensa que posee en su campiña y sus valles así como su amplia costa. Sobresale por el buen gusto, gracias al uso de condimentos y formas de preparación, tanto andinas como introducidas por los europeos. Una de las características peculiares de la comida son los picantes en infinidad de combinaciones, esto hace que los lugares donde se expenden se llamen "Picanterías".</p>
+
+                                        <div class=" text-center">
+                                 <input type="submit"  class="btn btn-primary btn-lg" style="color:#34343d" onclick="window.open('https://www.google.com.pe/maps/search/restaurantes+arequipa/@-16.3986764,-71.5464383,15z/data=!3m1!4b1');"  value="Visitar página">
+                                </div>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+		 <!-- jhon 3 -->
+                        <div class="reference-item" data-category="Interacción Humano Computador">
+                            <div class="reference">
+                                <a href="#">
+                                    <img src="img/trabajos/portfolio-022.jpg" class="img-responsive" alt="" />
+
+                                    <div class="overlay">
+                                        <h3 class="reference-title">Trasnporte</h3> 
+                                        <p></p>
+                                    </div>
+                                </a>
+
+                               <div class="sr-only reference-description" data-images="img/trabajos/slider022.jpg">
+
+                                    <p>Las empresas que se dedica al traslado de personas en la ciudad de Arequipa es de modalidad TAXI REMISSE, dedicándose al transporte privado y exclusivo de personas vip, ejecutivos, empresarios, servicios turísticos privados, servicios matrimoniales, traslasdo de documentos confidenciales y valores, excursiones y viajes a nivel nacional. Ofreciéndo un servicio rápido, eficaz y confiable los 365 días del año y las 24 horas del día, teniendo en cuenta con responsabilidad la importancia de su tiempo.
+
+				Los conductores son profesionales con amplia experiencia, los mismos que se encuentran debidamente registrados portando un fotocheck para su identificación.</p>
+
+                                   <div class=" text-center">
+                                 <input type="submit"  class="btn btn-primary btn-lg" style="color:#34343d" onclick="window.open('https://www.google.com.pe/maps/search/taxis+arequipa/@-16.3986733,-71.5727035,13z/data=!3m1!4b1');"  value="Visitar página">
+                                </div>
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+			 <!-- jhon 4 -->
+                        <div class="reference-item" data-category="Interacción Humano Computador">
+                            <div class="reference">
+                                <a href="#">
+                                          <img src="img/trabajos/portfolio-023.jpg" class="img-responsive" alt="" />
+
+                                    <div class="overlay">
+                                        <h3 class="reference-title">Turismo</h3> 
+                                        <p></p>
+                                    </div>
+                                </a>
+
+                                      <div class="sr-only reference-description" data-images="img/trabajos/slider023.jpg">
+
+                                    <p>El volcán Misti es imponente, levantado sobre una serena campiña con mantiales, viejos molinos (en Sabandia), baños termales (en Yura) y en (Socosani), pequeños con callejones tipo andaluz (Yanahuara) y, no muy lejos, una aldea enraizada en un cerro pétreo (Sachaca). El uso de la piedra sillar (Mineral volcánico) en la construcción de templos, conventos y casonas le dan a la ciudad un aspecto peculiar. No menos famosos son el Valle del Colca y su cañón, los Petroglifos de Toro Muerto, el valle y cañón de Cotahuasi. Así mismo, las cuevas de Sumbay y Andahua y el denominado Valle de los Volcanes, las lagunas de Mejía y las cavernas de Socabaya. En la ciudad de Arequipa, el monasterio de Santa Catalína, fundado en 1580.</p>
+
+                                      <div class=" text-center">
+                                 <input type="submit"  class="btn btn-primary btn-lg" style="color:#34343d" onclick="window.open('https://www.google.com.pe/maps/search/agencias+de+turismo+en+arequipa/@-16.3986559,-71.5727037,13z/data=!3m1!4b1');"  value="Visitar página">
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+				
+                    <!-- /#references-masonry -->
+
+                </div>
+                <!-- /.12 -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.section -->
+
+        <!-- *** REFERENCES END *** -->
+
+        <!-- *** CUSTOMERS ***
+
+      <!-- Related demos -->
+            
+        </main>
+        <script src="js/mapa/lunar.js"></script>
+        <script src="js/mapa/imagesloaded.pkgd.min.js"></script>
+        <script src="js/mapa/main.js"></script>
+        <script>
+        (function() {
+            new PointsMap(document.querySelector('#interactive-1'));
+            new PointsMap(document.querySelector('#interactive-2'), {
+                // Maximum opacity that the background element of a Point can have when the point is active (mouse gets closer to it).
+                maxOpacityOnActive : 1,
+                // When the mouse is [activeOn]px away from one point, its image gets opacity = point.options.maxOpacity.
+                activeOn : 90
+            });
+        })();
+        </script>
+        <div>
+        <div class="section" id="footer">
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-sm-6">
+
+                        <p class="social">
+                            <a href="https://www.facebook.com/profile.php?id=100012666452503" class="external facebook" data-animate-hover="shake" data-animate="fadeInUp"><i class="fa fa-facebook"></i></a>
+                            <a href="#" class="external instagram" data-animate-hover="shake" data-animate="fadeInUp"><i class="fa fa-instagram"></i></a>
+                            <a href="#" class="external gplus" data-animate-hover="shake" data-animate="fadeInUp"><i class="fa fa-google-plus"></i></a>
+                            <a href="#" class="email" data-animate-hover="shake" data-animate="fadeInUp"><i class="fa fa-envelope"></i></a>
+                        </p>
+                    </div>
+                    <!-- /.6 -->
+
+                    <div class="col-sm-6">
+                        <p>&copy; 2016 CITIE. Todos los derechos reservados.</p>
+                    </div>
+
+                    <div class="col-sm-12">
+
+                        <!-- Not removing these links is part of the license conditions of the template. Thanks for understanding :) -->
+                        
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.section -->
+
+        <!-- *** FOOTER END *** -->
+
+
+    </div>
+
+        </div>
+    <!-- /#all 
+_________________________________________________________ -->
+
+       
+    <!-- /#all -->
+
+    <!-- #### JAVASCRIPT FILES ### -->
+
+    <!-- js base -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- for demo purpose -->
+    <script src="js/jquery.cookie.js"></script>
+
+    <!-- waypoints for scroll spy -->
+    <script src="js/waypoints.min.js"></script>
+
+    <!-- maps -->
+   <!-- <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+    <script src="js/gmaps.js"></script>
+-->
+    <!-- masonry layout -->
+    <script src="js/masonry.pkgd.min.js"></script>
+
+    <!-- owl carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+
+
+    <!-- jQuery scroll to -->
+    <script src="js/jquery.scrollTo.min.js"></script>
+
+    <!-- jQuery counter -->
+    <script src="js/jquery.counterup.min.js"></script>
+
+    <!-- jQuery parallax -->
+    <script src="js/jquery.parallax-1.1.3.js"></script>
+
+    <!-- main js file -->
+
+    <script src="js/front.js"></script>
+
+    <script src="js/banner/desert.js"></script>
+
+    <script type="text/javascript" src="files/js/jquery-1.11.1.min.js"></script>
+    <!--<script type="text/javascript" src="files/js/bootstrap.min.js"></script>-->
+    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+    <script src="files/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script src="files/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+    <script type="text/javascript" src="files/js/plugins.js"></script>
+    <script type="text/javascript" src="files/js/custom.js"></script>
+
+
+</body>
+
+</html>
