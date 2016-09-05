@@ -112,7 +112,7 @@ $(window).load(function() {
 });
 
 function llenarPaises(){
-    for(i=0;i<state.length;i++){
+    /*for(i=0;i<state.length;i++){
         sel=false;
         if(state[i]=='Peru') sel=true;
         $('#pais').append($('<option>', {
@@ -120,7 +120,7 @@ function llenarPaises(){
             text: state[i],
             selected: sel
         }));
-    }
+    }*/
 }
 
 function newPapers(conta){

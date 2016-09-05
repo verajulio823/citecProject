@@ -41,7 +41,7 @@ $email_message .= "Email: " . $_POST['email'] . "\n\n";
 $headers = "From: verajulio823@gmail.com"."\r\n".
 "CC: verajulio823@gmail.com";
 
-$respuesta=@mail($email_to, $email_subject, $email_message, $headers);
+$respuesta=mail($email_to, $email_subject, $email_message, $headers);
 if ( $respuesta == true) {
             echo 'El email se envió exitosamente';
         }
