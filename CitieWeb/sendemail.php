@@ -38,10 +38,13 @@ $email_message .= "Email: " . $_POST['email'] . "\n\n";
 
 // Ahora se envía el e-mail usando la función mail() de PHP
 
-$headers = "From: verajulio823@gmail.com"."\r\n".
-"CC: verajulio823@gmail.com";
+//$headers = "From: verajulio823@gmail.com"."\r\n".
+//"CC: verajulio823@gmail.com";
+$headers = "MIME-Version: 1.0\r\n"; 
+$headers .= "Content-type: text/html; charset=iso-8859-1\r\n"; 
+$headers .= "From: Julio Augusto Vera <verajulio823@gmail.com>\r\n";
 
-$respuesta=mail($email_to, $email_subject, $email_message, $headers);
+$respuesta=@mail($email_to, $email_subject, $email_message, $headers);
 if ( $respuesta == true) {
             echo 'El email se envió exitosamente';
         }
