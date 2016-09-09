@@ -30,7 +30,7 @@ $(window).load(function() {
     llenarPaises();
 
     $( "#formInscripcion" ).submit(function( event ) {
-       $('.f1-buttons').html('Subiendo archivos.<br>Enviando Formulario.<br>Espere un momento mientras se le redirecciona.');
+       document.getElementById('mensajesubmit').innerHTML="Subiendo archivos y enviando el formulario";
     });
 
     $('#categoria').on('change', function() {
@@ -48,7 +48,7 @@ $(window).load(function() {
         else{
             $("#cantPaper").val("-1");
             document.getElementById('soloAutores').style.display="none";
-            document.getElementById('msjNoAutores').innerHTML="<center><h4>No estás en la categoría de autor.<br>Puedes saltarte este paso.</h3></center>";
+            document.getElementById('msjNoAutores').innerHTML="<center><h4> No se olvide que verificaremos sus datos <br> Y se le enviará un correo con la confirmación de su inscripción <br> Gracias por su participación.</h4></center>";
 
         }
     });
@@ -62,15 +62,6 @@ $(window).load(function() {
         }
     });
 
-    //VENUE
-    $("input[name=tipo]:radio").change(function () {
-        if($("input[name=tipo]:checked").val()=='Miembro CLEI, SCCC, IEEE o Co-Org (PUCV, USM)'){
-            document.getElementById('membresia').style.display="";
-        }
-        else{
-            document.getElementById('membresia').style.display="none";
-        }
-    });
 
 
 

@@ -1,76 +1,49 @@
-<?php
-
-/**
- * configure here
- */
-$from = 'IT WORKER <it@domain.com>';
-$sendTo = 'IT WORKER <it@domain.com>';
-$subject = 'New message from contact form';
-$fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
-$htmlHeader = '';
-$htmlFooter = '';
-$okMessage = 'Contact form succesfully submitted. Thank you, I will get back to you soon!';
-
-$htmlContent = '<h1>New message from contact form</h1>';
-
-/* DO NOT EDIT BELOW */
-
-/* use classes */
-
-use Nette\Mail\Message,
-    Nette\Mail\SendmailMailer;
-
-/* require framework */
-
-require 'php/Nette/nette.phar';
-
-/* configure neccessary */
-
-$configurator = new Nette\Configurator;
-$configurator->setTempDirectory(__DIR__ . '/php/temp');
-$container = $configurator->createContainer();
-
-/* get post */
-
-$httpRequest = $container->getService('httpRequest');
-$httpResponse = $container->getService('httpResponse');
-
-$post = $httpRequest->getPost();
-
-if ($httpRequest->isAjax()) {
-    /* compose htmlContent */
-
-    $htmlContent .= '<table>';
-    foreach ($post as $key => $value) {
-
-	if (isset($fields[$key])) {
-	    $htmlContent .= "<tr><th>$fields[$key]</th><td>$value</td></tr>";
-	}
-    }
-    $htmlContent .= '</table>';
-
-    /* compose html body */
-
-    $htmlBody = $htmlHeader . $htmlContent . $htmlFooter;
-
-    /* send email */
-
-    $mail = new Message;
-    $mail->setFrom($from)
-	    ->addTo($sendTo)
-	    ->setSubject($subject)
-	    ->setHtmlBody($htmlBody, FALSE);
-
-    $mailer = new SendmailMailer;
-    $mailer->send($mail);
+<?php 
 
 
-    $responseArray = array('type' => 'success', 'message' => $okMessage);
+$email_message = "Detalles del formulario de contacto:\n\n";
+$email_message .= "Nombre: " . $_POST['name'] . "\n";
+$email_message .= "Apellido: " . $_POST['surname'] . "\n";
+$email_message .= "Correo: " . $_POST['email'] . "\n";
+$email_message .= "Telefono: " . $_POST['phone'] . "\n";
+$email_message .= "Mensaje: " . $_POST['message'] . "\n\n";
 
-    $httpResponse->setCode(200);
-    $response = new \Nette\Application\Responses\JsonResponse($responseArray);
-    $response->send($httpRequest, $httpResponse);
-}
+ 
+require '/var/www/html/citieoriginal/it-worker/PHPMailer/class.phpmailer.php';
+require '/var/www/html/citieoriginal/it-worker/PHPMailer/class.smtp.php';
+   
+$mail = new PHPMailer();   
+    
+$mail->IsSMTP();   
+$mail->Host = 'smtp.gmail.com'; 
+$mail->SMTPDebug  = 0;
+$mail->Port = 465; 
+$mail->SMTPAuth = true; 
+$mail->SMTPSecure="ssl";
+$mail->Username = 'citiearequipa@gmail.com'; 
+$mail->Password = 'arequipa2016'; 
+
+$mail->From = "citiearequipa@gmail.com";   
+$mail->FromName = "Contactenos";   
+$mail->Subject = "Contactenos";   
+$mail->AddAddress("citiearequipa@gmail.com");   
+
+   
+$mail->Body = $email_message;   
+   
+if( !$mail->Send() ) 
+{ 
+ echo "mensaje  no enviado";
+} 
+else 
+{   
+  echo "mensaje enviado";
+}   
+   
+
+
+?>
+
 
 
 

@@ -444,7 +444,7 @@ function waypointsRefresh() {
 
 function contactForm() {
     $("#contact-form").submit(function () {
-
+	alert("Mensaje enviado Exitosamente");
 	var url = "contact.php"; // the script where you handle the form input.
 
 	$.ajax({
@@ -458,6 +458,7 @@ function contactForm() {
 		var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable animated bounceIn"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + messageText + '</div>';
 		if (messageAlert && messageText) {
 		    $('#contact-form').find('.messages').html(alertBox);
+
 		}
 	    }
 	});
