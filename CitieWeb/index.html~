@@ -13,7 +13,7 @@
     <meta name="googlebot" content="index,follow,snippet,archive">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>IT Worker | responsive portfolio template</title>
+    <title>Congreso Internacional de Tendencias en Innovación Educativa</title>
 
     <meta name="keywords" content="">
 
@@ -73,13 +73,8 @@ _________________________________________________________ -->
 
     <div class="navbar navbar-default navbar-fixed-top" role="navigation" id="navbar">
         <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
+            <div class="navbar-header" >
+                
                <!-- <a class="navbar-brand scrollTo" href="#intro" style="color:blue">CITIE</a>-->
                <img src="img/logohome.png" width="270" height="90">
             </div>
@@ -95,12 +90,14 @@ _________________________________________________________ -->
                     </li>
                     <li><a href="#testimonials">Ponentes</a>
                     </li>
-                    <li><a href="#references">Trabajos</a>
+                    <li><a href="#references">Inscripciones</a>
                     </li>
                     <li><a href="#customers">Auspiciadores</a>
                     </li>
                     <li><a href="#contact">Contáctenos</a>
                     </li>
+                    <!--<li><a href="turismo.html">Turismo</a>
+                    </li>-->
                 </ul>
             </div>
             <!--/.nav-collapse -->
@@ -153,10 +150,10 @@ _________________________________________________________ -->
                                 <li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
                                     <img src="files/images/01-slide.jpg" data-fullwidthcentering="on" alt="slide">
                                     <div class="tp-caption first-line lft tp-resizeme start" data-x="right" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">
-                                        <div style="background: rgba(225, 225, 225, .8); width:400px; height:200px; float:left; text-align: center;">
-                                        <h2 style="color:#3a1bef"><b>CITIE</b></h2>
-                                        <h3 style="color:#3a1bef">31 de octubre - 11 Noviembre</h3>
-                                        <h3 style="color:#3a1bef">CONFERENCIAS VIRTUALES</h3>
+                                        <div  style="background: rgba(225, 225, 225, .8); width:400px; height:200px; float:left; text-align: center;">
+                                        <h2 style="color:#3a1bef; font-family:arial"><b>CITIE</b></h2>
+                                        <h3 style="color:#3a1bef; font-family:arial">31 de octubre - 11 Noviembre</h3>
+                                        <h3 style="color:#3a1bef; font-family:arial">CONFERENCIAS VIRTUALES</h3>
                                             
                                         </div>
                                       
@@ -168,9 +165,9 @@ _________________________________________________________ -->
                                     <img src="files/images/03-slide.jpg" data-fullwidthcentering="on" alt="slide">
                                     <div class="tp-caption first-line lft tp-resizeme start" data-x="left" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">
                                         <div style="background: rgba(225, 225, 225, .8); width:400px; height:200px; float:left; text-align: center;">
-                                        <h2 style="color:#3a1bef"><b>CITIE</b></h2>
-                                        <h3 style="color:#3a1bef">14 Noviembre - 18 Noviembre</h3>
-                                        <h3 style="color:#3a1bef">CONGRESO PRESENCIAL</h3>                                            
+                                        <h2 style="color:#3a1bef; font-family:arial"><b>CITIE</b></h2>
+                                        <h3 style="color:#3a1bef; font-family:arial">14 Noviembre - 18 Noviembre</h3>
+                                        <h3 style="color:#3a1bef; font-family:arial">CONGRESO PRESENCIAL</h3>                                            
                                         </div>
 
 
@@ -181,9 +178,9 @@ _________________________________________________________ -->
                                     <img src="files/images/02-slide.jpg" data-fullwidthcentering="on" alt="slide">
                                     <div class="tp-caption first-line lft tp-resizeme start" data-x="right" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">
                                         <div style="background: rgba(225, 225, 225, .8); width:400px; height:200px; float:left; text-align: center;">
-                                        <h2 style="color:#3a1bef"><b>CITIE</b></h2>
-                                        <h3 style="color:#3a1bef">14 Noviembre - 17 Noviembre</h3>
-                                        <h3 style="color:#3a1bef">LLAMADA DE TRABAJOS</h3>                                            
+                                        <h2 style="color:#3a1bef; font-family:arial"><b>CITIE</b></h2>
+                                        <h3 style="color:#3a1bef; font-family:arial">14 Noviembre - 17 Noviembre</h3>
+                                        <h3 style="color:#3a1bef; font-family:arial">LLAMADA DE TRABAJOS</h3>                                            
                                         </div>
     
 
@@ -195,9 +192,9 @@ _________________________________________________________ -->
                                     <img src="files/images/04-slide.jpg" data-fullwidthcentering="on" alt="slide">
                                     <div class="tp-caption first-line lft tp-resizeme start" data-x="left" data-hoffset="0" data-y="250" data-speed="1000" data-start="200" data-easing="Power4.eaInternet y software para la educaciónut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">
                                          <div style="background: rgba(225, 225, 225, .8); width:400px; height:200px; float:left; text-align: center;">
-                                        <h2 style="color:#3a1bef"><b>CITIE</b></h2>
-                                        <h3 style="color:#3a1bef">18 Noviembre</h3>
-                                        <h3 style="color:#3a1bef">CLAUSURA DEL CONGRESO</h3>                                            
+                                        <h2 style="color:#3a1bef; font-family:arial"><b>CITIE</b></h2>
+                                        <h3 style="color:#3a1bef; font-family:arial">18 Noviembre</h3>
+                                        <h3 style="color:#3a1bef; font-family:arial">CLAUSURA DEL CONGRESO</h3>                                            
                                         </div>
 
                                     </div>
@@ -222,7 +219,7 @@ _________________________________________________________ -->
 
         <!-- *** ABOUT ***
 _________________________________________________________ -->
-          <div class="section" id="about">
+               <div class="section" id="about">
             <div class="container">
                 <div class="row">
 
@@ -236,11 +233,13 @@ _________________________________________________________ -->
 
                             <div class="col-sm-6 text-justify" data-animate="fadeInUp">
 
-                                <p>CITIE busca conocer las <strong>tendencias y prácticas en innovación educativa </strong>  que están transformando la educación del mundo. Ademas de conectar con expertos de reconocimiento mundial, además identificar recursos para la mejora de la <strong> Enseñanza - Aprendizaje</strong>, colaborar con colegas e instituciones en temas comunes, construir acuerdos de trabajo en conjunto, recibir el reconocimiento de sus colegas por la innovación en su práctica docente</p>
+                              <!--  <p>CITIE busca conocer las <strong>tendencias y prácticas en innovación educativa </strong>  que están transformando la educación del mundo. Ademas de conectar con expertos de reconocimiento mundial, además identificar recursos para la mejora de la <strong> Enseñanza - Aprendizaje</strong>, colaborar con colegas e instituciones en temas comunes, construir acuerdos de trabajo en conjunto, recibir el reconocimiento de sus colegas por la innovación en su práctica docente</p>-->
 
-                                <p> Se busca fomentar y facilitar la experimentación e innovación entre los profesores, directivos, emprendedores y todos aquellos interesados en Educación, acercándolos a las mejores experiencias nacionales e internacionales, conectándolos con expertos y mostrándoles lo que otros educadores están haciendo en materia de innovación educativa</p>
+                                <p>El Congreso Internacional de Tendencias en Innovación Educativa (CITIE) pretende ser un espacio para conocer, compartir, analizar  y difundir las <strong>tendencias y prácticas en innovación educativa </strong> que están transformando la educación en el mundo; conectar con expertos de reconocimiento mundial, identificar recursos para la mejora de la Enseñanza - Aprendizaje, colaborar con colegas e instituciones en temas comunes, construir acuerdos de trabajo en conjunto  y  brindar el reconocimiento  a quienes  innovan su práctica docente.</p>
 
-                               <p> El evento va dirigido a personas con interés en actualizar sus conocimientos en avances en tecnologías educativas. El perfil de los participantes será para estudiantes, docentes, profesionales y público interesado con interés en tendencias en tecnologías de educación. </p>
+                                <p> Se busca fomentar y facilitar la experimentación e innovación entre los profesores, directivos, emprendedores y todos aquellos interesados en Educación, acercándolos a las mejores experiencias nacionales e internacionales, conectándolos con expertos y mostrándoles lo que otros educadores están haciendo en materia de innovación educativa en distintas realidades.</p>
+
+                               <p>El evento va dirigido a  estudiantes, docentes, autoridades, profesionales y público interesado en aprender nuevas tendencias y prácticas en tecnologías de educación. </p>
                                
 
                                <div class=" text-center">
@@ -253,13 +252,16 @@ _________________________________________________________ -->
                                 <ul>
                                     <li > <b>31 de octubre - 11 Noviembre</b>:  Conferencias virtuales </li>
                                     <li > <b>14 - 18 Noviembre</b>:  Congreso presencial </li>
-                                    <li > <b>14 - 17 Setiembre</b>:  Llamada de trabajos, short y full papers </li>                                
+                                    <li > <b>14 - 17 Setiembre</b>:  Llamada de trabajos, short y full papers </li>                 
                                     <li > <b>18 Noviembre</b>:  Clausura del congreso </li>
 
                                     
                                 </ul>  
-                                <p> <b>Contenido, Organización del texto y Formato:</b> El paper deberá ser tipeado en Latex o Word (Fuente Times new roman, espacio simple) las especificaciones para los margenes son los siguientes: upper: 33 milímetros, lower: 25 milímetros, left and right: 29 milímetros, gutter: 3 milímetros, header: 21 milímetros, footer ninguno, para el formato de Latex la plantilla correspondiente se encuentra en el siguiente enlace: <a href="http://www.google.com">formatoScielo.tex </a>  </p>
-                                <p>En la primera página del paper va título del paper, nombres, afiliaciones de los autores, abstract y palabras claves que contiene, no se permiten notas al pie de página, para mas información el formato que se usara sera Scielo, para mas información click <a href="http://www.google.com"> aqui</a>  </p>
+                                <!--<p> <b>Tipos de trabajo de investigación: </b> El paper deberá ser tipeado en Latex o Word (Fuente Times new roman, espacio simple) las especificaciones para los margenes son los siguientes: upper: 33 milímetros, lower: 25 milímetros, left and right: 29 milímetros, gutter: 3 milímetros, header: 21 milímetros, footer ninguno, para el formato de Latex la plantilla correspondiente se encuentra en el siguiente enlace: <a href="http://www.google.com">formatoScielo.tex </a>  </p>-->
+                                <p> <b>Tipos de trabajo de investigación: </b> Los mejores trabajos serán indexados en la revista Scielo, de tal modo, los tipos de trabajo de investigación que serán aceptados son, <b> Full Paper y Short Paper </b> estos deberán estar presentados en formato Scielo, la presentación de los mismos pueden ser en Word o en Latex, la plantilla en Latex puede encontrarla en el siguiente link <a href="http://www.google.com">formatoScielo.tex </a>  </p>
+                                
+                                <p> <b>Normas de redacción</b> Por favor lea las instrucciones atentamente y sígalas, de está manera asegurara su revisión y publicación de su trabajo de investigación. La estructura de los trabajos de investigación y las normas de redacción se encuentra en el siguiente Link<a href="http://www.scielo.br/revistas/pope/iinstruc.htm"> aqui</a> </p>
+                                <br></br>
                                 
                                 <div class=" text-center">
                                  <input type="submit"  class="btn btn-primary btn-lg" style="color:#34343d" onclick="window.open('http://easychair.org/');"  value="Enviar Artículo">
@@ -320,14 +322,14 @@ _________________________________________________________ -->
 
                     <hr>
 
-                    <div class="text-center">
+                   <!-- <div class="text-center">
 
                         <p class="lead">¿Le gustaría saber más sobre nosotros?</p>
 
                         <p><a href="#contact" class="btn btn-default btn-lg scrollTo" ">Contactenos</a>
                         </p>
 
-                    </div>
+                    </div>-->
 
                 </div>
                 <!-- /.12 -->
@@ -479,185 +481,57 @@ _________________________________________________________ -->
                                 </div>
                             </div> -->
                         </li>
+			<li class="item">
+                            <div class="testimonial same-height-always">
+                                <div class="text">
+				  <img class="" alt="" src="img/ponentes/021.png">                                    
+				 <!-- <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p> -->
+                                </div>
+
+                                <!--<div class="bottom">
+                                    <div class="icon"><i class="fa fa-quote-left"></i>
+                                    </div>
+                                    <div class="name-picture">
+                                        <img class="" alt="" src="img/ponentes/007.jpg">
+                                        <h5>John McIntyre</h5>
+                                        <p>Francisco García</p>
+                                    </div>
+                                </div>
+                            </div> -->
+                        </li>
+			<li class="item">
+                            <div class="testimonial same-height-always">
+                                <div class="text">
+				  <img class="" alt="" src="img/ponentes/020.png">                                    
+				 <!-- <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p> -->
+                                </div>
+
+                                <!--<div class="bottom">
+                                    <div class="icon"><i class="fa fa-quote-left"></i>
+                                    </div>
+                                    <div class="name-picture">
+                                        <img class="" alt="" src="img/ponentes/007.jpg">
+                                        <h5>John McIntyre</h5>
+                                        <p>Francisco García</p>
+                                    </div>
+                                </div>
+                            </div> -->
+                        </li>
 
  			<li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
-  				<img class="" alt="" src="img/ponentes/016.png"> 
-                                 <!--   <p>Editor de la Revista de Educación a Distancia y la Revista de Docencia Universitaria. Participa del grupo de editores de E-revistas, portal español de revistas científicas de acceso abierto de CINDOC-CSIC, cuyo foro en Rediris coordino.
-					Además es miembro de INCODE agencia consultiva de ONU sobre educación a distancia.</p> -->
+				  <img class="" alt="" src="img/ponentes/022.png">                                    
+				 <!-- <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p> -->
                                 </div>
 
                                 <!--<div class="bottom">
                                     <div class="icon"><i class="fa fa-quote-left"></i>
                                     </div>
                                     <div class="name-picture">
-                                        <img class="" alt="" src="img/ponentes/008.jpg">
+                                        <img class="" alt="" src="img/ponentes/007.jpg">
                                         <h5>John McIntyre</h5>
-                                        <p>Miguel Zapata</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </li>
-                   
- 			<li class="item">
-                            <div class="testimonial same-height-always">
-                                <div class="text">
-                                  <img class="" alt="" src="img/ponentes/016.png">     
-				<!--<p>Investigador de Productividad Científica del Consejo Nacional de Desarrollo Científico y Tecnológico del Ministerio de Ciencia y Tecnología del Brasil, Vice-Presidente del Comité de Ética en Investigación con Seres Humanos de la PUC-Campiñas y coordinador de Investigación en Gestión y Políticas en Educación de la misma universidad. Miembro del Consejo Científico de la Asociación Brasileña de
-				Evaluación Educacional y consultor y/o asesor científico.</p> -->
-                                </div>
-
-                                <!--<div class="bottom">
-                                    <div class="icon"><i class="fa fa-quote-left"></i>
-                                    </div>
-                                    <div class="name-picture">
-                                        <img class="" alt="" src="img/ponentes/009.jpg">
-                                        <h5>John McIntyre</h5>
-                                        <p>Adolfo Ignacio</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </li>
-		
-
-		 <li class="item">
-                            <div class="testimonial same-height-always">
-                                <div class="text">
-  				<img class="" alt="" src="img/ponentes/016.png"> 
-                                <!--    <p>Realiza investigaciones sobre tecnologías de la educación y el aprendizaje organizacional.</p> -->
-                                </div>
-
-                               <!-- <div class="bottom">
-                                    <div class="icon"><i class="fa fa-quote-left"></i>
-                                    </div>
-                                    <div class="name-picture">
-                                        <img class="" alt="" src="img/ponentes/010.jpg">
-                                        <h5>John McIntyre</h5>
-                                        <p>Margarida Romero</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </li>
-
-
- 			<li class="item">
-                            <div class="testimonial same-height-always">
-                                <div class="text">
-  					<img class="" alt="" src="img/ponentes/016.png"> 
-                                    <!--<p>Experta en Gestión de la Educación a Distancia.</p> -->
-                                </div>
-
-                               <!-- <div class="bottom">
-                                    <div class="icon"><i class="fa fa-quote-left"></i>
-                                    </div>
-                                    <div class="name-picture">
-                                        <img class="" alt="" src="img/ponentes/011.jpg">
-                                        <h5>John McIntyre</h5>
-                                        <p>Daniela Vieira </p>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </li>
-
-
-			 <li class="item">
-                            <div class="testimonial same-height-always">
-                                <div class="text">
-  					<img class="" alt="" src="img/ponentes/016.png"> 
-                                   <!-- <p>Profesora de amplia experiencia en el área de la tecnología educativa. Principalmente trabaja en el área de postgrado como consultor y líder para la integración de las TIC en la educación. Experiencia en  áreas de creación de contenidos multimedia, usabilidad, diseño de la experiencia del usuario, Ingeniero y Arquitectura de aprendizaje, entornos virtuales de aprendizaje, el diseño de juegos y laboratorios virtuales.</p> -->
-                                </div>
-
-                                <!--<div class="bottom">
-                                    <div class="icon"><i class="fa fa-quote-left"></i>
-                                    </div>
-                                    <div class="name-picture">
-                                        <img class="" alt="" src="img/ponentes/012.jpg">
-                                        <h5>John McIntyre</h5>
-                                        <p>Ariane Alvarez</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </li>
-
-
-
-			 <li class="item">
-                            <div class="testimonial same-height-always">
-                                <div class="text">
-				<img class="" alt="" src="img/ponentes/016.png"> 				
-				 <!-- <img class="" alt="" src="img/ponentes/016.png"> -->                                    
-				 <p>.</p>
-                                </div>
-
-                                <!--<div class="bottom">
-                                    <div class="icon"><i class="fa fa-quote-left"></i>
-                                    </div>
-                                    <div class="name-picture">
-                                        <img class="" alt="" src="img/ponentes/013.jpg">
-                                        <h5>John McIntyre</h5>
-                                        <p>Juan Cabrera</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </li>
-
-
-			 <li class="item">
-                            <div class="testimonial same-height-always">
-                                <div class="text">
-                          <img class="" alt="" src="img/ponentes/016.png">         
-			    <!--<p>Profesor e Investigador del Departamento de Ciencias de la Computación, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile. Sus intereses en investigación son Informática Educativa, Interacción Humano-Computador, Software Educativo, Multimedios/Hipermedios, Juegos Computacionales Educativos.</p> -->
-                                </div>
-
-                                <!--<div class="bottom">
-                                    <div class="icon"><i class="fa fa-quote-left"></i>
-                                    </div>
-                                    <div class="name-picture">
-                                        <img class="" alt="" src="img/ponentes/014.jpg">
-                                        <h5>John McIntyre</h5>
-                                        <p>Jaime Sanchez</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </li>
-
-
-
-			 <li class="item">
-                            <div class="testimonial same-height-always">
-                                <div class="text">
-  				<img class="" alt="" src="img/ponentes/016.png"> 
-                                   <!-- <p>.</p> -->
-                                </div>
-
-                                <!--<div class="bottom">
-                                    <div class="icon"><i class="fa fa-quote-left"></i>
-                                    </div>
-                                    <div class="name-picture">
-                                        <img class="" alt="" src="img/ponentes/004.jpg">
-                                        <h5>John McIntyre</h5>
-                                        <p>Ari Anselmi</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </li>
-
-
-		 <li class="item">
-                            <div class="testimonial same-height-always">
-                                <div class="text">
-					  <img class="" alt="" src="img/ponentes/016.png">                                 
-			   <!-- <p>Doctor en Ingeniería, Universidad Nacional de Rosario y tiene una Maestría en Ciencias de la Computación, Universidad de la República, Montevideo, Uruguay. Obtuvo su grado en Matemáticas en la Universidad Nacional de Rosario. Ella también es profesor e investigador en el Departamento de Investigación, Facultad de Química e Ingeniería, Rosario, Universidad Católica Argentina.</p> -->
-                                </div>
-
-                               <!-- <div class="bottom">
-                                    <div class="icon"><i class="fa fa-quote-left"></i>
-                                    </div>
-                                    <div class="name-picture">
-                                        <img class="" alt="" src="img/ponentes/004.jpg">
-                                        <h5>John McIntyre</h5>
-                                        <p>Claudia Deco</p>
+                                        <p>Francisco García</p>
                                     </div>
                                 </div>
                             </div> -->
@@ -680,10 +554,6 @@ _________________________________________________________ -->
         <div class="section text-parallax parallax-image1" id="services">
             <div class="container">
                 <div class="row showcase">
-
-			<div class="mb20">
-                        <h2 class="title" data-animate="fadeInUp">Datos Estadisticos</h2>
-                     </div>
                     <div class="col-md-3 col-sm-6" data-animate="fadeInUp">
                         <div class="item">
                             <div class="icon"><i class="fa fa-align-justify"></i>
@@ -732,485 +602,63 @@ _________________________________________________________ -->
 
         <!-- *** REFERENCES IMAGE ***
 _________________________________________________________ -->
-         <div class="section" id="references">
+        <div class="section" id="references">
             <div class="container">
                 <div class="col-sm-12">
 
                     <div class="mb20">
-                        <h2 class="title" data-animate="fadeInUp">Trabajos</h2>
+                        <h2 class="title" data-animate="fadeInUp">Inscripciones</h2>
 
-                        <p class="lead" data-animate="fadeInUp">Investigaciones presentadas en el congreso de tecnologías e innovación educativa.</p>
+                        <!--<p class="lead" data-animate="fadeInUp">Investigaciones presentadas en el congreso de tecnologías e innovación educativa.</p>-->
+
+                        <p> Los pagos para las inscripciones seran en la cuenta de <b>Banco de Crédito del Perú</b> a la cuenta número 123-4567890, para la inscripción deberán adjuntar el voucher y enviar un correo electronico a  <b>citiearequipa2016@gmail.com </b> con los siguientes datos: Nombres y apellidos, Institución a la que pertenece ( Alumnos de Pregado y Posgrado deben adjuntar certificado de alumno regular )</p>
+                        <p> * Cuando su inscripción sea revisada recibirá un correo electrónico de respaldo</p>
+                        <p>  <a href="inscripcion.html"> Formulario de inscripción aquí</a><p>
+                        <p> Se muestra a continuación los precios para las inscripciones: </p>
+
+
+                        <style type="text/css">
+                        .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
+                        .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;border-top-width:1px;border-bottom-width:1px;}
+                        .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#634cec;border-top-width:1px;border-bottom-width:1px;}
+                        .tg .tg-baqh{text-align:center;vertical-align:top}
+                        .tg .tg-lqy6{text-align:center;vertical-align:top}
+                        </style>
+                        <table class="tg" data-animate="fadeInUp" align="center">
+                          <tr>
+                            <th class="tg-baqh">Categorías</th>
+                            <th class="tg-baqh">Inscripción Nacional</th>
+                            <th class="tg-baqh">Inscripción Extranjeros</th>
+                          </tr>
+                          <tr>
+                            <td class="tg-baqh">Profesionales o particulares</td>
+                            <td class="tg-lqy6">S/. 200</td>
+                            <td class="tg-lqy6">US$ 60</td>
+                          </tr>
+                          <tr>
+                            <td class="tg-baqh">Estudiantes de Posgrado</td>
+                            <td class="tg-lqy6">S/. 150</td>
+                            <td class="tg-lqy6">US$ 45</td>
+                          </tr>
+                          <tr>
+                            <td class="tg-baqh">Inscripción Corporativa de 5 a más</td>
+                            <td class="tg-lqy6">S/. 150</td>
+                            <td class="tg-lqy6">US$ 45</td>
+                          </tr>
+                          <tr>
+                            <td class="tg-baqh">Estudiantes de Pregrado</td>
+                            <td class="tg-lqy6">S/. 100</td>
+                            <td class="tg-lqy6">US$ 30</td>
+                          </tr>
+                          
+                        </table>
+
+                         
+
                     </div>
 
-                    <ul id="filter" data-animate="fadeInUp">
-                        <li class="active"><a href="#" data-filter="all">Todos</a>
-                        </li>
-                        <li><a href="#" data-filter="Nuevas Tendencias en el aprendizaje con tecnología digital">Nuevas Tendencias en el aprendizaje con tecnología digital</a>
-                        </li>
-                        <li><a href="#" data-filter="Internet y software para la educación">Internet y software para la educación</a>
-                        </li>
-                        <li><a href="#" data-filter="Interacción Humano Computador">Interacción Humano Computador</a>
-                        </li>
-                        <li><a href="#" data-filter="Ecosistema Educativo">Ecosistema Educativo</a>
-                        </li>
-                    </ul>
 
-                    <div id="detail">
-
-                        <span class="close">&times;</span> 
-
-                        <div id="detail-slider"></div>
-
-                        <div class="text-center">
-                            <h1 id="detail-title">&nbsp;</h1>
-                        </div>
-
-                        <div id="detail-content"></div>
-
-                    </div>
-                    <!-- Reference detail -->
-			<!-- jhon1 -->
-
-                    <div id="references-masonry" data-animate="fadeInUp">
-
-                        <div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-001.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Escuela del Siglo XXI</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider001.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-		 <!-- jhon 2 -->
-                        <div class="reference-item" data-category="Internet y software para la educación">
-                            <div class="reference">
-                                <a href="#">
-                                   <img src="img/trabajos/portfolio-002.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Cursos en línea y MOOC</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider002.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-		 <!-- jhon 3 -->
-                        <div class="reference-item" data-category="Interacción Humano Computador">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-003.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Videojuegos Educativos</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                               <div class="sr-only reference-description" data-images="img/trabajos/slider003.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-
-                            </div>
-                        </div>
-			 <!-- jhon 4 -->
-                        <div class="reference-item" data-category="Interacción Humano Computador">
-                            <div class="reference">
-                                <a href="#">
-                                          <img src="img/trabajos/portfolio-004.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Ecosistema de Aprendizaje</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                      <div class="sr-only reference-description" data-images="img/trabajos/slider004.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-				 <!-- jhon 5 -->
-                        <div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                       <img src="img/trabajos/portfolio-005.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Buenas Prácticas Escolares</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider005.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-				 <!-- jhon 6 -->
-                        <div class="reference-item" data-category="Ecosistema Educativo">
-                            <div class="reference">
-                                <a href="#">
-                                     <img src="img/trabajos/portfolio-006.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Pensamiento Computacional a la Currícula Escolar</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                  <div class="sr-only reference-description" data-images="img/trabajos/slider006.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-			 <!-- jhon 7 -->
-                        <div class="reference-item" data-category="Internet y software para la educación">
-                            <div class="reference">
-                                <a href="#">
-                                        <img src="img/trabajos/portfolio-007.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Tecnologias Educativas</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                 <div class="sr-only reference-description" data-images="img/trabajos/slider007.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
- 			<!-- jhon 8 -->
-                        <div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-008.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Robótica Educativa</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider008.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-				 <!-- julio 1 -->
-				<div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-009.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Robótica Educativa</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider009.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
- 				 <!-- julio 2 -->
-				<div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-010.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Robótica Educativa</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider010.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-			
- <!-- julio 3 -->
-				<div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-011.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Robótica Educativa</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider011.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
- <!-- julio 4 -->
-				<div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-012.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Robótica Educativa</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider012.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
- <!-- julio 5 -->
-				<div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-013.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Robótica Educativa</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider013.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
- <!-- julio 6 -->
-				<div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-014.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Robótica Educativa</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider014.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
- <!-- julio 7 -->
-				<div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-015.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Robótica Educativa</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider015.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
- <!-- julio 8 -->
-				<div class="reference-item" data-category="Nuevas Tendencias en el aprendizaje con tecnología digital">
-                            <div class="reference">
-                                <a href="#">
-                                    <img src="img/trabajos/portfolio-016.jpg" class="img-responsive" alt="" />
-
-                                    <div class="overlay">
-                                        <h3 class="reference-title">Robótica Educativa</h3> 
-                                        <p></p>
-                                    </div>
-                                </a>
-
-                                <div class="sr-only reference-description" data-images="img/trabajos/slider016.jpg">
-
-                                    <p>Projecting surrounded literature yet delightful alteration but bed men. Open are from long why cold. If must snug by upon sang loud left. As me do preference entreaties compliment motionless ye literature. Day behaviour
-                                        explained law remainder. Produce can cousins account you pasture. Peculiar delicate an pleasant provided do perceive.</p>
-
-                                    <p>Sitting mistake towards his few country ask. You delighted two rapturous six depending objection happiness something the. Off nay impossible dispatched partiality unaffected. Norland adapted put ham cordial. Ladies
-                                        talked may shy basket narrow see. Him she distrusts questions sportsmen. Tolerably pretended neglected on my earnestly by. Sex scale sir style truth ought.</p>
-
-                                    <p class="buttons">
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-globe"></i> Visit website</a>
-                                        <a class="btn btn-primary" href="javascript:void(0);"><i class="fa fa-download"></i> Download case study</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
- 
-                    </div>
+                
                     <!-- /#references-masonry -->
 
                 </div>
@@ -1230,10 +678,7 @@ _________________________________________________________ -->
                 <div class="col-md-12">
 
 
-                   <div class="mb20">
-                        <h2 class="title" style="color: black" data-animate="fadeInUp">Auspiciadores<br</h2>
-                      </div>
-
+                    <div class="row">
                         <div class="col-sm-4 col-md-2  col-xs-6">
                             <div class="customer">
                                 <img class="img-responsive" src="img/customers/cus001.png" title="Universidad Técnica Particular de Loja    " data-placement="bottom" data-toggle="tooltip" alt="">
@@ -1391,7 +836,7 @@ _________________________________________________________ -->
                     <div class="row">
 
                         <div class="col-md-8 col-md-offset-2">
-                            <form id="contact-form" method="post" action="contact.php">
+                            <form id="contact-form" action="contact.php" method="post" >
 
                                 <div class="messages">
 
