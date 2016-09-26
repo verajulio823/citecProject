@@ -463,6 +463,25 @@ _________________________________________________________ -->
                             </div> -->
                         </li>
 
+			<li class="item">
+                            <div class="testimonial same-height-always">
+                                <div class="text">
+				  <img class="" alt="" src="img/ponentes/023.png">                                    
+				 <!-- <p>Autor de más de un centenar de artículos en revistas y congresos internacionales y ha participado en más de cincuenta proyectos de investigación de carácter regional, nacional, europeo e internacional en los últimos diez años.</p> -->
+                                </div>
+
+                                <!--<div class="bottom">
+                                    <div class="icon"><i class="fa fa-quote-left"></i>
+                                    </div>
+                                    <div class="name-picture">
+                                        <img class="" alt="" src="img/ponentes/007.jpg">
+                                        <h5>John McIntyre</h5>
+                                        <p>Francisco García</p>
+                                    </div>
+                                </div>
+                            </div> -->
+                        </li>
+
  			<li class="item">
                             <div class="testimonial same-height-always">
                                 <div class="text">
@@ -536,6 +555,8 @@ _________________________________________________________ -->
                                 </div>
                             </div> -->
                         </li>
+
+		
 
  </ul>
                     <!-- /.owl-carousel -->
